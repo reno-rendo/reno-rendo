@@ -10,9 +10,8 @@
 
 <!-- Profile GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reno-rendo&theme=github-compact&hide_border=true" />
 </p>
-
 ---
 
 ### 💼 About Me
