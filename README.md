@@ -1,47 +1,27 @@
 <!-- Liquid Wave Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Reno%20Rendo&fontSize=40&fontAlignY=35&desc=Web%20Developer%20%7C%20Tech%20Explorer&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Reno%20Rendo&fontSize=40&fontAlignY=35&desc=Web%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&animation=fadeIn" />
 </p>
 
-<!-- Typing Effect -->
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FF4E8&center=true&vCenter=true&width=435&lines=Hi+I'm+Reno-Rendo+👋;Web+Developer+%7C+Builder+%7C+Dreamer;Let%27s+Build+Something+Great!" />
 </p>
 
+<!-- Profile GIF -->
 <!-- Crunchyroll Banner -->
 <p align="center">
-  <img src="https://www.crunchyroll.com/imgsrv/display/thumbnail/1200x675/catalog/crunchyroll/0273e80242d80b0218f640e038269c18.jpe" width="100%" />
+  <img src="Frame 1.png" width="100%" border-radius="100px" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 💼 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Reno+👋;Web+Developer+%7C+Tech+Explorer;Anime+Lover+%7C+Open+Source+Fan" />
-</p>
-
-- 💻 I'm a passionate full-stack web developer from **Indonesia 🇮🇩**  
-- 🚀 I build admin panels, CMS, license systems & app-hosting platforms  
-- ⚙️ My tech includes **PHP**, **CodeIgniter**, **Laravel**, **MySQL**, **JS**, and **Tailwind**  
-- 🧠 Always exploring **AI tools**, **automation**, and creative tech solutions  
-- 💡 I believe in **build first, perfect later** — speed and impact over perfection  
-
----
-
-### 🍀 Why I Love Black Clover
-
-> “Asta may have been born without magic, but his **spirit** and **drive** are stronger than any spell.”
-
-- 🖤 Asta's story inspires me because:
-  - He started from **nothing**
-  - He was doubted by **everyone**
-  - But he never gave up on his dreams
-- Just like coding from zero — **grit beats talent** when talent doesn't work hard
-
-<p align="center">
-  <img src="https://media.tenor.com/W1t9d9xOUGIAAAAC/asta-black-clover.gif" width="300" />
-</p>
+- 🔭 Currently working on **web panel systems**, **app hosting**, and **license generators**
+- 💡 Exploring AI tools, automations, and full-stack systems
+- 📫 Reach me at: **mail@blog.mrreno.my.id**
+- 📝 Visit my blog: [blog.mrreno.my.id](https://blog.mrreno.my.id)
 
 ---
 
@@ -90,5 +70,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=100&section=footer" />
+  <img src="Frame 1.png" />
 </p>
