@@ -1,37 +1,36 @@
-# Hi, I'm [Your Name]! 👋
+<!-- Liquid Header -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=0FF4E8&center=true&vCenter=true&width=435&lines=Hi+There,+I'm+Reno+👋;Web+Developer+|+AI+Builder+🚀;Code.+Create.+Inspire." />
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Writer" alt="Typing Animation" />
-</h3>
-
+<!-- GIF workspace aesthetic -->
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" />
 </p>
 
-## 📊 GitHub Stats  
+<!-- Section cards like Tailwind style -->
+<h3 align="center">✨ Tools & Stack</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,laravel,mysql,git,linux,figma" />
 </p>
 
-## 🛠️ My Skills  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,figma&theme=dark" />
-</p>
+<!-- Animated Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6f42c1&height=100&section=footer" />
 
-## 🔥 My Coding Activity  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true" />
-</p>
+<!-- Pinned Projects with custom banners -->
+### 🎨 Featured Projects
 
-## 🎵 Now Playing  
-[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)  
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🔐 License Panel](https://github.com/renomrreno/license-panel) | Sistem lisensi PHP modern dengan panel admin | PHP, JS, MySQL |
+| [📱 App Downloader](https://github.com/renomrreno/apk-download-site) | Website unduh APK luar Play Store | PHP, HTML, CSS |
+| [🎛️ Web Portfolio Admin](https://github.com/renomrreno/web-portfolio) | Admin panel full CRUD & SEO optimized | CI4, Tailwind |
+
+---
+
+Kalau kamu izinkan, saya bisa bantu:
+
+- Buatkan SVG header custom dengan warna branding kamu
+- Desain banner project khusus
+- Tambah efek ketik otomatis pakai link generator
+- Ganti badge jadi lebih modern style
+
+Kamu mau saya bantu buat versi final lengkap dari itu? Atau kirim aja username GitHub kamu biar saya sesuaikan semua detailnya?
