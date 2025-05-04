@@ -1,58 +1,37 @@
-# 👋 Hi there, I'm [Your Name]! 👨‍💻
+# Hi, I'm [Your Name]! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and lifelong learner. Below, you'll find a showcase of my skills, projects, and contributions.
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Contributor;Tech+Writer" alt="Typing Animation" />
+</h3>
 
----
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-### 🚀 About Me
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on [Project Name] (Brief description of the project).
-- 🌱 I’m currently learning [Tech/Language/Skill you're learning].
-- 👯 I’m looking to collaborate on open-source projects, especially in the areas of [Mention Areas of Interest].
-- 💬 Ask me about [Any tech or topic you're passionate about].
-- 📫 How to reach me: [Email / LinkedIn / Twitter / Website]
+## 🛠️ My Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,postgres,tailwind,figma&theme=dark" />
+</p>
 
----
+## 🔥 My Coding Activity  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true" />
+</p>
 
-### 💻 Skills & Technologies
-
-#### Languages:
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-#### Frameworks:
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white)
-
-#### Tools:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### 🌍 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
-
-### 🔗 Connect With Me
-
-- 🌐 [Personal Website](https://your-website.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-
----
-
-### 🎯 Fun Facts
-
-- 🤖 I enjoy building AI projects.
-- 📚 I’m a fan of [Tech Book/Podcast] and often dive into [Tech Topic].
-- 🌱 When I’m not coding, I love [Hobby or Interest].
+## 🎵 Now Playing  
+[![Spotify](https://spotify-now-playing-readme.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)  
