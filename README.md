@@ -46,8 +46,9 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,codeigniter,mysql,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap,php,laravel,codeigniter,nodejs,express,python,django,java,spring,mysql,postgresql,mongodb,git,github,docker,linux,vscode" />
 </p>
+
 
 ---
 
