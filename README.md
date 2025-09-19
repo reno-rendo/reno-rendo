@@ -81,9 +81,17 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://blog.mrreno.my.id"><img src="https://img.shields.io/badge/Blog-mrreno.my.id-blue?style=for-the-badge&logo=wordpress" /></a>
-  <a href="mailto:mail@blog.mrreno.my.id"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:mail@blog.mrreno.my.id">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/reno.rendo11/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://www.facebook.com/reno.rendo11?locale=id_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" />
+  </a>
 </p>
+
 
 ---
 
