@@ -78,10 +78,10 @@
 
 ---
 
-### 🌐 Connect with Me
+### 📩 Contact Me
 
 <p align="center">
-  <a href="mailto:mail@blog.mrreno.my.id">
+  <a href="ggrignionrendo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.instagram.com/reno.rendo11/?hl=en" target="_blank">
@@ -91,6 +91,7 @@
     <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" />
   </a>
 </p>
+
 
 
 ---
