@@ -21,9 +21,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Reno+👋;Web+Developer+%7C+Tech+Explorer;Anime+Lover+%7C+Open+Source+Fan" />
 </p>
 
-- 💻 I'm a passionate full-stack web developer from **Indonesia 🇮🇩**   
-- ⚙️ My tech includes **PHP**, **CodeIgniter**, **Laravel**, **MySQL**, **JS**, and **Tailwind**  
-- 💡 I believe in **build first, perfect later** — speed and impact over perfection  
+- 💻 I'm a passionate **Full-Stack Web Developer** from **Indonesia 🇮🇩**  
+- ⚙️ My tech stack includes **PHP**, **CodeIgniter**, **Laravel**, **MySQL**, **JavaScript**, and **Tailwind CSS**  
+- 💡 I believe in *“Build first, perfect later”* — focusing on speed and impact over perfection  
+- 🎯 Always exploring new technologies and creating meaningful projects  
 
 ---
 
