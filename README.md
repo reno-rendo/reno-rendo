@@ -81,7 +81,7 @@
 ### 📩 Contact Me
 
 <p align="center">
-  <a href="ggrignionrendo@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mail@blog.mrreno.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://www.instagram.com/reno.rendo11/?hl=en" target="_blank">
@@ -91,6 +91,7 @@
     <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" />
   </a>
 </p>
+
 
 
 
