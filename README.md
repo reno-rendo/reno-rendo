@@ -21,10 +21,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Reno+👋;Web+Developer+%7C+Tech+Explorer;Anime+Lover+%7C+Open+Source+Fan" />
 </p>
 
-- 💻 I'm a passionate full-stack web developer from **Indonesia 🇮🇩**  
-- 🚀 I build admin panels, CMS, license systems & app-hosting platforms  
+- 💻 I'm a passionate full-stack web developer from **Indonesia 🇮🇩**   
 - ⚙️ My tech includes **PHP**, **CodeIgniter**, **Laravel**, **MySQL**, **JS**, and **Tailwind**  
-- 🧠 Always exploring **AI tools**, **automation**, and creative tech solutions  
 - 💡 I believe in **build first, perfect later** — speed and impact over perfection  
 
 ---
