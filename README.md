@@ -10,7 +10,7 @@
 
 <!-- Crunchyroll Banner -->
 <p align="center">
-  <img src="Frame 1.png" width="100%" />
+  <img src="Frame 1 (1).png" width="100%" />
 </p>
 
 ---
