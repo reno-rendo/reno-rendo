@@ -74,7 +74,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🔐 License Panel](#) | Sistem lisensi modern dengan panel admin | PHP, MySQL |
+| [🔐 stream anime](#) | coming soon! | - |
 | [📱 APK Download Site](#) | Website unduh APK luar Play Store | PHP, HTML |
 | [🌐 Portfolio CMS](#) | Web resume dengan admin panel CRUD | CodeIgniter, JS |
 
