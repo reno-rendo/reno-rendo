@@ -82,12 +82,12 @@ available   : Open to freelance & collaboration
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reno-rendo&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1c1f16&title_color=c4a882&icon_color=9db5a0&text_color=d5ccb8&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reno-rendo&theme=gruvbox&hide_border=true&background=1c1f16&ring=c4a882&fire=d4845a&currStreakLabel=c4a882&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reno-rendo&show_icons=true&theme=gruvbox&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=reno-rendo&theme=gruvbox&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reno-rendo&layout=compact&theme=gruvbox&hide_border=true&bg_color=1c1f16&title_color=c4a882&text_color=d5ccb8&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reno-rendo&layout=compact&theme=gruvbox&hide_border=true&border_radius=10" width="40%" />
 </p>
 
 <br/>
