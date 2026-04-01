@@ -3,11 +3,11 @@
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Reno%20Rendo&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=58&descColor=a8b2d8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=220&section=header&text=Reno%20Rendo&fontSize=52&fontColor=f0ebe3&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20Builder%20%7C%20Open%20Source%20Enthusiast&descSize=16&descAlignY=58&descColor=c4b9a8&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Building+ideas+into+reality+🚀;PHP+%7C+Laravel+%7C+JavaScript+%7C+Tailwind;Full-Stack+Developer+from+Indonesia+🇮🇩;Open+to+collaborate+on+cool+projects!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=C4A882&center=true&vCenter=true&width=500&lines=Building+ideas+into+reality+🚀;PHP+%7C+Laravel+%7C+JavaScript+%7C+Tailwind;Full-Stack+Developer+from+Indonesia+🇮🇩;Open+to+collaborate+on+cool+projects!" />
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
   <a href="https://www.facebook.com/reno.rendo11?locale=id_ID" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=reno-rendo&style=for-the-badge&color=0d6efd&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=reno-rendo&style=for-the-badge&color=7B9E87&label=PROFILE+VIEWS" />
 </p>
 
 <br/>
@@ -82,12 +82,12 @@ available   : Open to freelance & collaboration
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reno-rendo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=a8b2d8&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reno-rendo&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reno-rendo&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1c1f16&title_color=c4a882&icon_color=9db5a0&text_color=d5ccb8&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reno-rendo&theme=gruvbox&hide_border=true&background=1c1f16&ring=c4a882&fire=d4845a&currStreakLabel=c4a882&border_radius=10" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reno-rendo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=a8b2d8&border_radius=10" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reno-rendo&layout=compact&theme=gruvbox&hide_border=true&bg_color=1c1f16&title_color=c4a882&text_color=d5ccb8&border_radius=10" width="40%" />
 </p>
 
 <br/>
@@ -99,7 +99,7 @@ available   : Open to freelance & collaboration
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reno-rendo&bg_color=0d1117&color=64ffda&line=0d6efd&point=64ffda&area=true&area_color=0d6efd&hide_border=true&border_radius=10" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reno-rendo&bg_color=1c1f16&color=c4a882&line=9db5a0&point=c4a882&area=true&area_color=9db5a0&hide_border=true&border_radius=10" width="97%" />
 </p>
 
 <br/>
@@ -189,9 +189,9 @@ available   : Open to freelance & collaboration
 <!-- ══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=120&section=footer" />
 </p>
